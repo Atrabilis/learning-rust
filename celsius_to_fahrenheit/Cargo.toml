@@ -1,0 +1,10 @@
+[package]
+name = "celsius_to_fahrenheit"
+version = "0.1.0"
+edition = "2024"
+
+[dependencies]
+
+[[bin]]
+name = "celsius_to_fahrenheit"
+path = "celsius_to_fahrenheit.rs"

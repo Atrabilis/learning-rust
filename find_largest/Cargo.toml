@@ -1,0 +1,10 @@
+[package]
+name = "find_largest"
+version = "0.1.0"
+edition = "2024"
+
+[dependencies]
+
+[[bin]]
+name = "find_largest"
+path = "find_largest.rs"
