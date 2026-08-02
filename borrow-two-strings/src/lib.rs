@@ -9,7 +9,7 @@ mod tests {
     #[test]
     fn adds_length_of_two_ascii_strings() {
         assert_eq!(total_length("rust", "lang"), 8);
-    }
+    } 
 
     #[test]
     fn handles_empty_first_string() {
